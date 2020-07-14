@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "CLI app to keep track of employees",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davpcoded/Employee-Tracker.git"
+  },
+  "author": "Daniel V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davpcoded/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Davpcoded/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.0",
+    "mysql": "^2.18.1"
+  }
+}
