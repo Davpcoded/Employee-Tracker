@@ -2,7 +2,7 @@
 
 - link to video of app working https://drive.google.com/file/d/1cvLDvvNkpT_uf89SYayOJIpDB9ARmz0Q/view
 
-![image](https://github.com/Davpcoded/Code-quiz/blob/master/Assets/Images/Code-Quiz.gif)
+![image](https://github.com/Davpcoded/Employee-Tracker/blob/master/Assets/demo-gif.gif)
 
 # Github
 
